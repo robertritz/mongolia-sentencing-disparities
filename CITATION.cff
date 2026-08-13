@@ -7,6 +7,7 @@ date-released: 2026-08-13
 authors:
   - family-names: Ritz
     given-names: Robert
+    orcid: "https://orcid.org/0009-0005-6644-6560"
 repository-code: "https://github.com/robertritz/mongolia-sentencing-disparities"
 license: MIT
 abstract: "Code and analysis assets for a study of demographic disparities in Mongolian criminal sentencing."

@@ -435,6 +435,7 @@ def build() -> None:
     title_page = """# Demographic Disparities in Criminal Sentencing: Evidence from Mongolian Courts
 
 Robert Ritz  
+ORCID: https://orcid.org/0009-0005-6644-6560  
 American University of Mongolia, Ulaanbaatar, Mongolia  
 Corresponding author: Robert Ritz, me@robertritz.com  
 

@@ -128,6 +128,10 @@ def main() -> None:
         and "formal ethics review was not required" in title_text,
         "independent institutional ethics determination is stated on the title page",
     )
+    check(
+        "https://orcid.org/0009-0005-6644-6560" in title_text,
+        "author ORCID is stated on the title page",
+    )
     manuscript_doc = Document(out / "manuscript_anonymized.docx")
     doc_text = "\n".join(paragraph.text for paragraph in manuscript_doc.paragraphs)
     check("@starr" not in doc_text and "References" in doc_text, "DOCX citations are rendered and references included")
