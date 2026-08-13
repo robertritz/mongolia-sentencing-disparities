@@ -470,7 +470,7 @@ The study analyzes 80,827 published criminal first-instance decisions from Mongo
 
 The manuscript fits the journal’s focus on empirical criminology in Asian contexts and contributes both substantive evidence from an understudied legal system and a transparent measurement lesson for computational court-record research.
 
-An earlier public-facing article (https://robertritz.com/2026/03/12/are-mongolian-courts-biased-criminal.html) reported preliminary analyses from this project. The submitted manuscript is a substantially revised scholarly analysis based on a locked publication validation audit, corrected sample restrictions, exclusion of an invalid sentence category, and removal of the unvalidated factor-dependent results. A corrected replacement has been prepared and committed; the live article will be updated before submission.
+An earlier public-facing article (https://robertritz.com/2026/03/12/are-mongolian-courts-biased-criminal.html) reported preliminary analyses from this project. The submitted manuscript is a substantially revised scholarly analysis based on a locked publication validation audit, corrected sample restrictions, exclusion of an invalid sentence category, and removal of the unvalidated factor-dependent results. The public article has been corrected to identify the earlier results as preliminary and to report only findings supported by the publication audit.
 
 This manuscript is original and is not under consideration elsewhere.
 
