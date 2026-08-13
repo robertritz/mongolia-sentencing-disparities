@@ -444,7 +444,7 @@ Corresponding author: Robert Ritz, me@robertritz.com
 
 **Competing interests.** The author has no relevant financial or non-financial interests to disclose.
 
-**Ethics approval.** No formal ethics committee approval was obtained. The study is a secondary analysis of judicial decisions made publicly available by Mongolia's judiciary. No individuals were recruited or contacted, no intervention occurred, and the manuscript reports only aggregate results. Direct identifiers have been removed from the released analysis dataset.
+**Ethics approval.** Bayaraa Zorigt, Vice Rector of the American University of Mongolia, independently reviewed the study and determined on August 13, 2026 that formal ethics review was not required. The study is a secondary analysis of judicial decisions made publicly available by Mongolia's judiciary. No individuals were recruited or contacted, no intervention occurred, and the manuscript reports only aggregate results. Direct identifiers have been removed from the released analysis dataset.
 
 **Consent to participate and consent for publication.** Not applicable. The study uses public judicial records and reports no identifiable individual-level findings.
 

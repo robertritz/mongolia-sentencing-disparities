@@ -68,10 +68,11 @@ observational and cover only published completed cases.
 
 ## Ethics and privacy
 
-No formal ethics committee approval was obtained before release preparation.
-The study uses secondary public judicial records; no individuals were recruited
-or contacted and no intervention occurred. The author has requested an
-independent institutional determination for journal submission.
+Bayaraa Zorigt, Vice Rector of the American University of Mongolia,
+independently reviewed the study and determined on August 13, 2026 that formal
+ethics review was not required. The study uses secondary public judicial
+records; no individuals were recruited or contacted and no intervention
+occurred.
 
 Public availability at the source does not eliminate privacy risk. Combinations
 of offense, year, sentence, court code, and demographics may still permit
@@ -82,8 +83,8 @@ re-identification.
 
 Consent was not sought because the study did not contact individuals and uses
 records published by the judiciary. The journal declaration reports consent as
-not applicable and does not claim a committee exemption that has not been
-documented.
+not applicable and records the independent institutional determination without
+claiming formal committee approval.
 
 ## Distribution and licensing
 

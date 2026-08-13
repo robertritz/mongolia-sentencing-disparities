@@ -120,6 +120,14 @@ def main() -> None:
         "ESM_1.pdf",
     ]
     check(all((out / name).exists() for name in expected), "all submission documents exist")
+    title_doc = Document(out / "title_page.docx")
+    title_text = "\n".join(paragraph.text for paragraph in title_doc.paragraphs)
+    check(
+        "Bayaraa Zorigt" in title_text
+        and "Vice Rector" in title_text
+        and "formal ethics review was not required" in title_text,
+        "independent institutional ethics determination is stated on the title page",
+    )
     manuscript_doc = Document(out / "manuscript_anonymized.docx")
     doc_text = "\n".join(paragraph.text for paragraph in manuscript_doc.paragraphs)
     check("@starr" not in doc_text and "References" in doc_text, "DOCX citations are rendered and references included")

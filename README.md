@@ -7,7 +7,7 @@ Quantitative analysis of sentencing disparities in Mongolian criminal first-inst
 - Data collection complete
 - Publication evidence gate complete
 - Submission analysis and manuscript package reproducible locally
-- Author declarations complete; ethics determination remains pending
+- Author declarations and independent institutional ethics determination complete
 - Public replication package: https://github.com/robertritz/mongolia-sentencing-disparities
 - Current working analysis dataset: `data/processed/sentencing_clean.parquet`
 
