@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Demographic Disparities in Criminal Sentencing: Evidence from Mongolian Courts"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+version: 1.0.0
+date-released: 2026-08-13
+authors:
+  - family-names: Ritz
+    given-names: Robert
+repository-code: "https://github.com/robertritz/mongolia-sentencing-disparities"
+license: MIT
+abstract: "Code and analysis assets for a study of demographic disparities in Mongolian criminal sentencing."

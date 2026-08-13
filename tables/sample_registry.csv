@@ -1,0 +1,6 @@
+sample_key,description,n,required_columns
+full,Full cleaned sample,69527,
+sample_a,Primary confirmatory adult sample,29132,"female, age, education_level, employed, crime_category, prior_criminal, severity"
+sample_b,Robustness sample without age requirement; known juveniles excluded,35995,"female, education_level, employed, crime_category, prior_criminal, severity"
+two_part_stage1,Two-part imprisonment model stage 1 adult sample,33600,"female, age, education_level, employed, crime_category, prior_criminal"
+two_part_stage2,Two-part imprisonment model stage 2 sample,5521,"female, age, education_level, employed, crime_category, prior_criminal, sentence_months"

@@ -1,0 +1,8 @@
+{
+  "protocol_version": "1.0",
+  "locked_at_utc": "2026-08-12T10:17:45.931809+00:00",
+  "coder": "Codex blinded coders 001-300",
+  "adjudicator": "Codex sentence-type protocol adjudication",
+  "row_count": 300,
+  "coding_sheet_sha256": "d7582b941d275867e677cea89878bdf032fc6cb7d79ab4cb14ec0de230f3cbf9"
+}

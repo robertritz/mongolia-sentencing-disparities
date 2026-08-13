@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Internal planning/docs
+CLAUDE.md
+todo.md
+idea.md
+journal-recommendations.md
+exec-summary.md
+
+# Validation working files
+data/validation/manual_validation_sample.csv
+data/validation/source_decisions/
+data/validation/coding_packets/
+data/validation/source_fetch_progress.json

@@ -1,0 +1,14 @@
+metric_group,metric,value,n,threshold,gate_pass
+employment,prediction_coverage_on_gold,0.9581151832460733,191,,
+employment,accuracy,0.9781420765027322,183,0.9,True
+employment,kappa,0.9562932887508957,183,0.8,True
+sentence_type,accuracy,0.79,300,,
+sentence_type,kappa,0.7501982553528945,300,,
+sentence_months,exact_match_rate,0.8333333333333334,60,,
+sentence_months,within_1_month_rate,0.8666666666666667,60,,
+aggravating,present_f1,0.15037593984962405,283,0.85,False
+aggravating,count_mae,1.0353356890459364,283,1.0,False
+aggravating,count_spearman_r,0.2030244703816181,283,,
+mitigating,present_f1,0.6649214659685864,283,0.85,False
+mitigating,count_mae,1.9328621908127208,283,1.0,False
+mitigating,count_spearman_r,0.40940124558769797,283,,

@@ -1,0 +1,5 @@
+model,hypothesis,variable,p,rank,threshold,reject
+Model 1 - Total Association,H4 (Employment),employed,2.0939035309958122e-23,1,0.0125,True
+Model 1 - Total Association,H1 (Gender),female,3.2030128880795105e-07,2,0.016666666666666666,True
+Model 1 - Total Association,H3 (Age non-linear),age_sq,0.007168490142324684,3,0.025,True
+Model 1 - Total Association,H2 (Education),education_level,0.0827351842560915,4,0.05,False
